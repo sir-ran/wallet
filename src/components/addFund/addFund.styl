@@ -1,0 +1,53 @@
+.add-fund
+  position absolute
+  top 0
+  bottom 75px
+  width 100%
+  transition all 0.3s
+  background #fff
+  z-index 10
+  &.slide-enter
+    transform translateY(100%)
+  &.slide-leave, &.slide-leave-active
+    opacity 0
+  .header
+    text-align center
+    height 50px
+    line-height 50px
+    border-bottom 1px solid #e3e5e7
+    font-size 18px
+  .select-bar
+    display flex
+    height 30px
+    width 100px
+    margin 15px auto
+    border 1px solid #494f67
+    border-radius 6px
+    .select-button
+      flex 1
+      color #494f67
+      line-height 30px
+      text-align center
+      &.active
+        background #494f67
+        color #fff
+  .list
+    padding 15px
+    .list-item
+      padding 0 15px 0
+      height 60px
+      border-bottom 1px solid #e3e5e7
+      line-height 60px
+      &:first-child
+        border-top 1px solid #e3e5e7
+      .icon
+        font-size 24px
+        vertical-align middle
+      .type
+        font-size 18px
+        vertical-align middle
+        margin-left 15px
+      .count
+        float right
+        vertical-align middle
+        margin-right 10px
