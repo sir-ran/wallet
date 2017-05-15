@@ -12,7 +12,11 @@
 
 ## 部分截图
 ![截图1](/preview/pic1.jpg)
+***
 ![截图2](/preview/pic2.jpg)
+***
 ![截图3](/preview/pic3.jpg)
+***
 ![截图4](/preview/pic4.jpg)
+***
 ![截图5](/preview/pic5.jpg)
