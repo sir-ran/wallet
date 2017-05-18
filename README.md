@@ -2,6 +2,9 @@
 
 > 一个使用vue全家桶构件的web钱包记账应用
 
+# 手机预览地址
+![二维码](/preview/wallet1.jpg)
+
 ## 主要技术构成
 
 > 主要技术栈为vue.js、vue-router、vuex、部分组件使用了vue第三方组件库Mint-ui，图表部分使用了echart.js
