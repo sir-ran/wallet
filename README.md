@@ -2,8 +2,10 @@
 
 > 一个使用vue全家桶构件的web钱包记账应用
 
+## [Demo](http://118.89.190.158:8000)
+
 # 手机预览地址
-![二维码](/preview/wallet.png)
+![二维码](/preview/wallet-preview.png)
 
 ## 主要技术构成
 
