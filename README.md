@@ -3,7 +3,7 @@
 > 一个使用vue全家桶构件的web钱包记账应用
 
 # 手机预览地址
-![二维码](/preview/wallet1.jpg)
+![二维码](/preview/wallet.png)
 
 ## 主要技术构成
 
